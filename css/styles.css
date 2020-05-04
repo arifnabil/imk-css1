@@ -1,0 +1,37 @@
+/*********TAG SELECTOR***********/
+body {
+  background-color: #dae1e7;
+  font-family: calibri;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #142850;
+  border-width: 4px;
+  height: 0px;
+}
+
+h1 {
+  color: #00909e;
+}
+
+h3 {
+  color: #00909e;
+}
+
+/*********ID SELECTOR***********/
+#heading {
+  font-family: verdana;
+  color: #27496d;
+}
+
+/*********CLASS SELECTOR***********/
+.index {
+  background-color: #c3edea;
+}
+.table {
+  background-color: #f0f0f0;
+}
+.hub {
+  background-color: #cee397;
+}
